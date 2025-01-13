@@ -29,7 +29,7 @@ SkipX, **YouTube** ve **YouTube Shorts** videolarını hızlı ve güvenli bir �
 ### **1. Adım: Uygulamayı İndirin**
 - GitHub sayfasından en son sürümü [buradan](https://github.com/MertcanAlan/SkipX/blob/main/Releases/SkipX0.2.exe) indirip çıkarın.
 - [Virus Total](https://www.virustotal.com/gui/file/e0446470f8dab76f31a77e798700ffb10d20554265b1e0397da5dcc5656acf8d/detection) (FalsePositive)
-- Dijital imza olmadığı için tehtid olarak algılıyor olabilir. Sizde istediğiniz sitelerde test edebilirsiniz.
+- Dijital imza olmadığı için tehdit olarak algılıyor olabilir. Sizde istediğiniz sitelerde test edebilirsiniz.
 
 ### **2. Adım: Programı Başlatın**
 - Uygulama çalıştırıldığında, YouTube video URL'sini girin ve "İndir" butonuna tıklayın.
