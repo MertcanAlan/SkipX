@@ -37,7 +37,7 @@ SkipX, **YouTube** ve **YouTube Shorts** videolarını hızlı ve güvenli bir �
 
 ## **Ön Erişim**
 
-SkipX projesi şu anda geliştirme aşamasında olup, ön erişim için [email@gmail.com](mailto:profilo12amertcan@gmail.com) adresine e-posta göndererek beta sürümüne erişim talep edebilirsiniz.
+SkipX projesi şu anda geliştirme aşamasında olup, ön erişim için [profilo12amertcan@gmail.com](mailto:profilo12amertcan@gmail.com) adresine e-posta göndererek beta sürümüne erişim talep edebilirsiniz.
 
 ---
 
@@ -80,5 +80,5 @@ Projeyi incelediğiniz için teşekkür ederiz! Yardımcı olabileceğimiz herha
 ---
 
 **Bizi Takip Edin:**
-- LinkedIn: [yourprofile](https://www.linkedin.com/in/mertcan-alan-055ab2346/)
+- LinkedIn: [Mertcan](https://www.linkedin.com/in/mertcan-alan-055ab2346/)
 
