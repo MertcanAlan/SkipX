@@ -27,7 +27,7 @@ SkipX, **YouTube** ve **YouTube Shorts** videolarını hızlı ve güvenli bir �
 ## **Kurulum ve Kullanım**
 
 ### **1. Adım: Uygulamayı İndirin**
-- GitHub sayfasından en son sürümü [buradan](https://github.com/MertcanAlan/SkipX/tree/main/Releases) indirip çıkarın.
+- GitHub sayfasından en son sürümü [buradan](https://github.com/MertcanAlan/SkipX/blob/main/Releases/SkipX0.2.exe) indirip çıkarın.
 
 ### **2. Adım: Programı Başlatın**
 - Uygulama çalıştırıldığında, YouTube video URL'sini girin ve "İndir" butonuna tıklayın.
