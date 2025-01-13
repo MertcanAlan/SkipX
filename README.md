@@ -1,6 +1,6 @@
 # **SkipX - Video Downloader**
 
-![SkipX Logo](https://img001.prntscr.com/file/img001/C9Am5PPqSy2VBzYh_QCPVw.png) <!-- Burada projenizin logosunu veya bir görselini koyabilirsiniz. -->
+![SkipX Logo](https://img001.prntscr.com/file/img001/VBzBAapfSi6hkEpXOSdGpA.png) <!-- Burada projenizin logosunu veya bir görselini koyabilirsiniz. -->
 
 ## **Proje Hakkında**
 
