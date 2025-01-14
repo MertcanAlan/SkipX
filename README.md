@@ -18,7 +18,7 @@ SkipX is a Windows application that allows you to download **YouTube** and **You
 ## **Setup and Usage**
 
 ### **Step 1: Download the Application**
-- Download the latest version from the [GitHub page](https://github.com/MertcanAlan/SkipX/blob/main/Releases/SkipX0.2.exe).
+- Download the latest version from the [GitHub page](https://github.com/MertcanAlan/SkipX/blob/main/Releases/SkipX0.3.exe).
 - [Virus Total Report](https://www.virustotal.com/gui/file/e0446470f8dab76f31a77e798700ffb10d20554265b1e0397da5dcc5656acf8d/detection) (False Positive Warning)  
   *Note:* The app may be flagged as a threat due to the lack of a digital signature. Feel free to verify it through trusted tools or platforms.
 
